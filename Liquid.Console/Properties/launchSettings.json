@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Liquid.Console": {
+      "commandName": "Project",
+      "commandLineArgs": " --input \"{\"\"\"Firstname\"\"\":\"\"\"Bill\"\"\",\"\"\"Lastname\"\"\":\"\"\"Gates\"\"\"}' --template c:\\temp\\template1_test.liquid"
+    }
+  }
+}
